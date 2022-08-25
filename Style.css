@@ -1,0 +1,15 @@
+.nav{
+    background-color: crimson;
+    margin: 20px;
+    padding: 20;
+    justify-content: space-between;
+    float: inline-end;
+    display: float;
+    flex-direction: row;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
